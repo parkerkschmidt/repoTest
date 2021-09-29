@@ -1,5 +1,6 @@
 
 
 sSchool = "BYU"
+iNum = 32
 
-print(sSchool)
+print(sSchool + str(iNum))
