@@ -1,0 +1,5 @@
+
+
+sSchool = "BYU"
+
+print(sSchool)
